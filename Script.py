@@ -209,9 +209,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 FɪʟᴇNᴀᴍᴇ : TN69Links {file_name}
+    CAPTION = """<b>📂 FɪʟᴇNᴀᴍᴇ : {file_name}
 
-<b> Fɪʟᴇ Sɪᴢᴇ ⚙️ : {file_size}</b>""" 
+    Fɪʟᴇ Sɪᴢᴇ ⚙️ : {file_size}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
