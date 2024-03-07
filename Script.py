@@ -674,15 +674,15 @@ Also your tutorial will be Added Your Group..."""
 
 
     DEVELOPER_TXT = """
-special Thanks To ❤️ Developers -
+Sᴘᴇᴄɪᴀʟ Tʜᴀɴᴋs Tᴏ ❤️ Dᴇᴠᴇʟᴏᴘᴇʀs -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/KingVj01'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
+- Dᴇᴠ 1 [Oᴡɴᴇʀ Oғ Tʜɪs Bᴏᴛ ]<a href='https://t.me/Cute_Boy_Saravana'>Ƭɴ69 ×͜× Sᴀʀᴀᴠᴀɴᴀ࿐</a>
 
--Dev 2 <a href='https://t.me/vjbots_bot'>VJ</a>
+- Dᴇᴠ 2 <a href='https://t.me/Manooj872'>Manoj ID seller</a>
 
--Dev 3 <a href='https://t.me/vj_botz>Jᴏᴇʟ </> TɢX</a>
+- Dᴇᴠ 3 <a href='https://t.me/AbhishekSflix>Abhishek </> Sflix</a>
 
-- Dev 4 <a href='https://t.me/vj_bots'>TEAM VJ</a>
+- Dᴇᴠ 4 <a href='https://t.me/GN24M'>~𝓖𝓸𝓹𝓲Ⓜ️</a>
 """
 
 
