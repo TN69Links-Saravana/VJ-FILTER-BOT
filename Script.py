@@ -24,10 +24,10 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Wʜᴇʀᴇ Is Sᴏᴜʀᴄᴇ Cᴏᴅᴇ? - <a href='https://youtube.com/@Tech_VJ'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>
+Wʜᴇʀᴇ Is Sᴏᴜʀᴄᴇ Cᴏᴅᴇ? - <a href='https://youtube.com/@TN69Links'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>
 
 
-Dᴇᴠᴇʟᴏᴘᴇʀ - <a href='https://t.me/KingVj01'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>"""
+Dᴇᴠᴇʟᴏᴘᴇʀ - <a href='https://t.me/TN69Links'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>"""
 
 
 
@@ -54,7 +54,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/vjupdates2/3)</code>
+<code>[Button Text](buttonurl:https://t.me/TN69Links2/3)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -84,12 +84,12 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
-<b>ɴᴏᴛᴇ:</b>
-my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/KingVj01>☢VJ☢</a></b>
+    EXTRAMOD_TXT = """Hᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
+<b>Nᴏᴛᴇ:</b>
+Mʏ Fᴇᴀᴛᴜʀᴇs Sᴛᴀʏ Hᴇʀᴇ Nᴇᴡ Fᴇᴀᴛᴜʀᴇs Cᴏᴍɪɴɢ Sᴏᴏɴ...  
+ <b>✯ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : <a href=https://t.me/Cute_Boy_Saravana>Ƭɴ69 ×͜× Sᴀʀᴀᴠᴀɴᴀ࿐</a></b>
   
- <b>✯ Join here : <a href=https://t.me/vj_bots>☢Join my updateds☢</a></b> 
+ <b>✯ Jᴏɪɴ Hᴇʀᴇ : <a href=https://t.me/TN69_Links>☢Jᴏɪɴ Mʏ Uᴘᴅᴀᴛᴇᴅs☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -209,9 +209,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b>📂 FɪʟᴇNᴀᴍᴇ : {file_name}
 
-<b> Size ⚙️: {file_size}</b>""" 
+<b> Fɪʟᴇ Sɪᴢᴇ ⚙️ : {file_size}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
