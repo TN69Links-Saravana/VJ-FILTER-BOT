@@ -13,7 +13,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
  ‣ Mʏ Nᴀᴍᴇ : <a href=https://t.me/TN69_Filter_Bot>💜 TʜᴀʟᴀPᴀᴛʜʏ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ ❤️</a>
  ‣ Mʏ Bᴇsᴛ Fʀɪᴇɴᴅ : <a href='tg://settings'>Tʜɪs Pᴇʀsᴏɴ</a> 
  ‣ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Cute_Boy_Saravana'>Ƭɴ69 ×͜× Sᴀʀᴀᴠᴀɴᴀ࿐</a> 
- ‣ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
+ ‣ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a> 
  ‣ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a> 
  ‣ Dᴀᴛᴀ Bᴀsᴇ : <a href='https://www.mongodb.com/'>Mᴏɴɢᴏ Dʙ</a> 
  ‣ Bᴏᴛ Sᴇʀᴠᴇʀ : <a href='https://render.com'>Rᴇɴᴅᴇʀ</a> 
