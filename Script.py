@@ -14,20 +14,20 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
  ‣ Mʏ Bᴇsᴛ Fʀɪᴇɴᴅ : <a href='tg://settings'>Tʜɪs Pᴇʀsᴏɴ</a> 
  ‣ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Cute_Boy_Saravana'>Ƭɴ69 ×͜× Sᴀʀᴀᴠᴀɴᴀ࿐</a> 
  ‣ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
- ‣ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
- ‣ Dᴀᴛᴀ Bᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
- ‣ Bᴏᴛ Sᴇʀᴠᴇʀ : <a href='https://render.com'>Heroku</a> 
- ‣ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
+ ‣ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a> 
+ ‣ Dᴀᴛᴀ Bᴀsᴇ : <a href='https://www.mongodb.com/'>Mᴏɴɢᴏ Dʙ</a> 
+ ‣ Bᴏᴛ Sᴇʀᴠᴇʀ : <a href='https://render.com'>Rᴇɴᴅᴇʀ</a> 
+ ‣ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.7.1 [Sᴛᴀʙʟᴇ]></b>"""
 
     SOURCE_TXT = """
 <b>Hᴇʏ, Tʜɪs ɪs ᴀ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Where is source code? - <a href='https://youtube.com/@Tech_VJ'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+Wʜᴇʀᴇ Is Sᴏᴜʀᴄᴇ Cᴏᴅᴇ? - <a href='https://youtube.com/@Tech_VJ'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>
 
 
-Developer - <a href='https://t.me/KingVj01'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+Dᴇᴠᴇʟᴏᴘᴇʀ - <a href='https://t.me/KingVj01'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>"""
 
 
 
