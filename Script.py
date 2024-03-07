@@ -228,9 +228,9 @@ IMDb Data:
 🎛 Countries : <code>{countries}</code>
 
 
-⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
+⏰ Rᴇsᴜʟᴛ Sʜᴏᴡɴ Iɴ : {remaining_seconds} <i>seconds</i> 🔥
 
-Requested by : {message.from_user.mention}</b>"""
+Rᴇǫᴜᴇsᴛᴇᴅ Bʏ : {message.from_user.mention}</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
@@ -432,7 +432,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 BOT WORKING PROPERLY"""
  
     TAMIL_INFO = """
-ஏய் <a href='tg://settings'>My Friend</a> 
+ஏய் <a href='tg://settings'>Mʏ Fʀɪᴇɴᴅ</a> 
 
 
  இப்போது டெலிகிராமிலும் பணம் சம்பாதிக்கலாம்.
@@ -448,7 +448,7 @@ BOT WORKING PROPERLY"""
 
  படி 2: உங்கள் இணையதளம் மற்றும் API ஐச் சேர்க்கவும்
 
- Exp: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ Exp: /shortlink mdisk.info 16d0ccbd4d81fd7a48c84da1ba1336ad0546680e
 
  வீடியோவைச் சேர்க்கவும்
 
@@ -459,7 +459,7 @@ BOT WORKING PROPERLY"""
 மேலும் உங்கள் குழுவில் பயிற்சி வீடியோ தொகுப்பு ஆகிடும்..."""
 
     ENGLISH_INFO = """
-Hey <a href='tg://settings'>My Friend</a> 
+Hey <a href='tg://settings'>Mʏ Fʀɪᴇɴᴅ</a> 
 
 
  Now you can earn money on Telegram too.
@@ -475,7 +475,7 @@ Hey <a href='tg://settings'>My Friend</a>
 
  Step 2: Add your website and API
 
- Exp: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ Exp: /shortlink mdisk.info 16d0ccbd4d81fd7a48c84da1ba1336ad0546680e
 
  Add a video
 
@@ -486,7 +486,7 @@ Hey <a href='tg://settings'>My Friend</a>
 Also your tutorial will be Added Your Group..."""
 
     TELUGU_INFO = """
-హే <a href='tg://settings'>My Friend</a> 
+హే <a href='tg://settings'>Mʏ Fʀɪᴇɴᴅ</a> 
 
 
  ఇప్పుడు మీరు టెలిగ్రామ్‌లో కూడా డబ్బు సంపాదించవచ్చు.
@@ -502,7 +502,7 @@ Also your tutorial will be Added Your Group..."""
 
  దశ 2: మీ వెబ్‌సైట్ మరియు APIని జోడించండి
 
- గడువు: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ గడువు: /shortlink mdisk.info 16d0ccbd4d81fd7a48c84da1ba1336ad0546680e
 
  వీడియోను జోడించండి
 
@@ -513,7 +513,7 @@ Also your tutorial will be Added Your Group..."""
 అలాగే మీ బృందం వీడియో సేకరణకు శిక్షణ ఇస్తుంది..."""
 
     HINDI_INFO = """
-अरे <a href='tg://settings'>My Friend</a> 
+अरे <a href='tg://settings'>Mʏ Fʀɪᴇɴᴅ</a> 
 
 
  अब आप टेलीग्राम पर भी पैसे कमा सकते हैं।
@@ -529,7 +529,7 @@ Also your tutorial will be Added Your Group..."""
 
  चरण 2: अपनी वेबसाइट और एपीआई जोड़ें
 
- एक्सप: /शॉर्टलिंक omegalinks.in 4b392f8eb6ad711fbe58
+ एक्सप: /शॉर्टलिंक mdisk.info 16d0ccbd4d81fd7a48c84da1ba1336ad0546680e
 
  एक वीडियो जोड़ें
 
@@ -540,7 +540,7 @@ Also your tutorial will be Added Your Group..."""
 साथ ही आपकी टीम वीडियो संग्रह का प्रशिक्षण भी देगी..."""
 
     MALAYALAM_INFO = """
-ഹേയ് <a href='tg://settings'>My Friend</a> 
+ഹേയ് <a href='tg://settings'>Mʏ Fʀɪᴇɴᴅ</a> 
 
 
  ഇപ്പോൾ നിങ്ങൾക്ക് ടെലിഗ്രാമിലും പണം സമ്പാദിക്കാം.
@@ -556,7 +556,7 @@ Also your tutorial will be Added Your Group..."""
 
  ഘട്ടം 2: നിങ്ങളുടെ വെബ്‌സൈറ്റും API-യും ചേർക്കുക
 
- കാലഹരണപ്പെടൽ: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ കാലഹരണപ്പെടൽ: /shortlink mdisk.info 16d0ccbd4d81fd7a48c84da1ba1336ad0546680e
 
  ഒരു വീഡിയോ ചേർക്കുക
 
@@ -567,7 +567,7 @@ Also your tutorial will be Added Your Group..."""
 നിങ്ങളുടെ ടീം വീഡിയോ ശേഖരണവും പരിശീലിപ്പിക്കും..."""
 
     URTU_INFO = """
- <a href='tg://settings'>My Friend</a> 
+ <a href='tg://settings'>Mʏ Fʀɪᴇɴᴅ</a> 
 
 
  اب آپ ٹیلی گرام پر بھی پیسے کما سکتے ہیں۔
@@ -583,7 +583,7 @@ Also your tutorial will be Added Your Group..."""
 
  مرحلہ 2: اپنی ویب سائٹ اور API شامل کریں۔
 
- Exp: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ Exp: /shortlink mdisk.info 16d0ccbd4d81fd7a48c84da1ba1336ad0546680e
 
  ایک ویڈیو شامل کریں۔
 
@@ -594,7 +594,7 @@ Also your tutorial will be Added Your Group..."""
 نیز آپ کی ٹیم ویڈیو جمع کرنے کی تربیت دے گی..."""
 
     GUJARATI_INFO = """
-અરે <a href='tg://settings'>My Friend</a> 
+અરે <a href='tg://settings'>Mʏ Fʀɪᴇɴᴅ</a> 
 
 
  હવે તમે ટેલિગ્રામ પર પણ પૈસા કમાઈ શકો છો.
@@ -610,7 +610,7 @@ Also your tutorial will be Added Your Group..."""
 
  પગલું 2: તમારી વેબસાઇટ અને API ઉમેરો
 
- સમાપ્તિ: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ સમાપ્તિ: /shortlink mdisk.info 16d0ccbd4d81fd7a48c84da1ba1336ad0546680e
 
  વિડિઓ ઉમેરો
 
@@ -636,7 +636,7 @@ Also your tutorial will be Added Your Group..."""
 
  ಹಂತ 2: ನಿಮ್ಮ ವೆಬ್‌ಸೈಟ್ ಮತ್ತು API ಸೇರಿಸಿ
 
- ಅವಧಿ: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ ಅವಧಿ: /shortlink mdisk.info 16d0ccbd4d81fd7a48c84da1ba1336ad0546680e
 
  ವೀಡಿಯೊ ಸೇರಿಸಿ
 
@@ -647,7 +647,7 @@ Also your tutorial will be Added Your Group..."""
 ನಿಮ್ಮ ತಂಡವು ವೀಡಿಯೋ ಸಂಗ್ರಹಣೆಗೆ ತರಬೇತಿ ನೀಡಲಿದೆ..."""
 
     BANGLADESH_INFO = """
-আরে <a href='tg://settings'>My Friend</a> 
+আরে <a href='tg://settings'>Mʏ Fʀɪᴇɴᴅ</a> 
 
  এখন আপনি টেলিগ্রামেও অর্থ উপার্জন করতে পারেন।
 
@@ -662,7 +662,7 @@ Also your tutorial will be Added Your Group..."""
 
  ধাপ 2: আপনার ওয়েবসাইট এবং API যোগ করুন
 
- মেয়াদ: /shortlink omegalinks.in 4b392f8eb6ad711fbe58
+ মেয়াদ: /shortlink mdisk.info 16d0ccbd4d81fd7a48c84da1ba1336ad0546680e
 
  একটি ভিডিও যোগ করুন
 
